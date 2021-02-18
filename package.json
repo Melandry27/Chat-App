@@ -1,0 +1,21 @@
+{
+  "name": "chat-socket.io",
+  "version": "1.0.0",
+  "description": "Chat réalisé avec Socket.io",
+  "main": "index.js",
+  "keywords": [
+    "chat",
+    "socket",
+    "socket.io",
+    "node",
+    "nodejs"
+  ],
+  "author": "Melandry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.3.5",
+    "socket.io": "^3.0.4",
+    "sqlite3": "^5.0.0"
+  }
+}
